@@ -1,0 +1,8 @@
+[submodule "Gundam-Man"]
+	path = Gundam-Man
+	url = https://github.com/tungkraiwit/Gundam-Man
+	branch = master
+[submodule "database_gundam"]
+	path = database_gundam
+	url = https://github.com/Madhannya/database_gundam
+	branch = master
